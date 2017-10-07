@@ -5,5 +5,4 @@ qqq
 ytyt
 
 
-pull
-req
+fixed pull req
